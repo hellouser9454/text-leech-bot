@@ -3,8 +3,7 @@
 import os
 
 API_ID    = os.environ.get("38504611", "")
-API_HASH  = os.environ.get("420384645adef5188488fba99dd61df6
-", "")
+API_HASH  = os.environ.get("420384645adef5188488fba99dd61df6", "")
 BOT_TOKEN = os.environ.get("8243867768:AAENqVMC75fcCSauXSrvC8hX8vfHNrYEKo8", "") 
 
 #WEBHOOK = True  # Don't change this
